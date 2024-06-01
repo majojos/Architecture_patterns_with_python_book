@@ -1,5 +1,4 @@
 venv
 .pytest_cache
 .idea
-info.txt
 __pycache__
